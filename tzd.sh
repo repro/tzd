@@ -8,7 +8,7 @@ tzd () {
       curl -O $URL
     elif [ `which wget 2>/dev/null` ]
     then
-      wget $URL
+      wget -t 1 $URL
     fi
   fi
 }
