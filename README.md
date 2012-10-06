@@ -5,5 +5,3 @@ As an example, to download the video from the web page "http://www.telezueri.ch/
 
 tzd "http://www.telezueri.ch/webtv/?&channel_id=88&video_id=268550"
 
-To use it, add the function to your .profile, or run the script.
-
